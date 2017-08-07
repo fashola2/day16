@@ -1,0 +1,47 @@
+#main_header {
+  background-color: black;
+  display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#main_title{
+  color: white;
+}
+
+#main_title_text{
+
+}
+
+li{
+  list-style: none;
+}
+
+#main_body_title{
+  display: flex;
+flex-direction: column;
+}
+
+#main_body{
+  display: flex;
+}
+p{
+  width: 56%;
+  border-left: 1px solid
+}
+
+#story {
+  margin-left: 7%
+}
+
+#title_text {
+  margin-left: 18%
+}
+
+img {
+  height: 189px;
+width: 186px;
+margin-right: 100px;
+padding-top: 37%;
+border-radius: 50%
+}
